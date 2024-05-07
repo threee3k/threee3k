@@ -5,7 +5,7 @@
 
 Still a beginner at these fields, I'm open to any suggestions/corrections
 # Development
-[![](https://skillicons.dev/icons?i=c,rust,python,neovim,debian,tensorflow)](https://skilicons.dev)
+[![](https://skillicons.dev/icons?i=c,rust,python,neovim,debian,tensorflow,assembly)](https://skilicons.dev)
 
 
 
